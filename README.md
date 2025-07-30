@@ -1,2 +1,2 @@
 # Text-Reader
-reads highlighted text in an Ai voice
+reads pdf text in an Ai voice
